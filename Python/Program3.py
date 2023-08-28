@@ -1,0 +1,12 @@
+#taking user input
+id=input("enter your id:")
+name=input("enter your name:")
+home_district=input("enter your home district:")
+admission_date=input("enter your admission date:")
+course_title=input("enter your course title:")
+print("my id is: ",id)
+print("my name is: ",name)
+print("my home district is: ",home_district)
+print("my admission date is: ",admission_date)
+print("my course title is: ",course_title)
+print("that's all for today")

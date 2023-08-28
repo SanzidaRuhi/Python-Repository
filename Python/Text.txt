@@ -1,0 +1,3 @@
+hello.. 
+the file you opened is a text file where some messages are written.. 
+this file will be opened by python compiler...Now the file has more content!Now the file has more content!Now the file has more content!Now the file has more content!Now the file has more content!Now the file has more content!
